@@ -1,7 +1,6 @@
 ### Eaí! 👋 Eu sou o Luiz Felipe
 
 - 👯 Apenas fazendo Experimentos
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/zxzinhu">
